@@ -1,0 +1,35 @@
+"question_var","question_label","question_n","response","response_n","Normoglycemia","Prediabetes","Diabetes","normoglycemia_pct","prediabetes_pct","diabetes_pct","chisq_p_value"
+"q1_a1c_knowledge","Do you know what Hemoglobin A1C testing is?",82236,"Yes",56080,38757,12699,4624,69.1,22.6,8.2,0
+"q1_a1c_knowledge","Do you know what Hemoglobin A1C testing is?",82236,"No",15222,12649,2329,244,83.1,15.3,1.6,0
+"q1_a1c_knowledge","Do you know what Hemoglobin A1C testing is?",82236,"Unsure",10934,8611,2063,260,78.8,18.9,2.4,0
+"q2_when_learned_a1c_testing","Which of the following statements best describes when you learned that the Red Cross was offering Hemoglobin A1C testing as part of the blood donation process in March?",82236,"Aware Prior to Donation",40223,28430,8885,2908,70.7,22.1,7.2,1.80908122556072e-53
+"q2_when_learned_a1c_testing","Which of the following statements best describes when you learned that the Red Cross was offering Hemoglobin A1C testing as part of the blood donation process in March?",82236,"Learned at Donation",12488,9331,2442,715,74.7,19.6,5.7,1.80908122556072e-53
+"q2_when_learned_a1c_testing","Which of the following statements best describes when you learned that the Red Cross was offering Hemoglobin A1C testing as part of the blood donation process in March?",82236,"Unaware",29525,22256,5764,1505,75.4,19.5,5.1,1.80908122556072e-53
+"q3_prior_a1c_awareness","Prior to your recent donation were you aware of your A1C level?",82236,"Yes",30064,17563,8476,4025,58.4,28.2,13.4,0
+"q3_prior_a1c_awareness","Prior to your recent donation were you aware of your A1C level?",82236,"No",46115,37977,7303,835,82.4,15.8,1.8,0
+"q3_prior_a1c_awareness","Prior to your recent donation were you aware of your A1C level?",82236,"Unsure",6057,4477,1312,268,73.9,21.7,4.4,0
+"q4_interest_learning_a1c","Learning my A1C level through a blood donation is of interest to me.",82236,"Strongly Agree",35232,24426,8210,2596,69.3,23.3,7.4,6.20210732886691e-114
+"q4_interest_learning_a1c","Learning my A1C level through a blood donation is of interest to me.",82236,"Agree",27069,20546,5237,1286,75.9,19.3,4.8,6.20210732886691e-114
+"q4_interest_learning_a1c","Learning my A1C level through a blood donation is of interest to me.",82236,"Neutral",16079,12286,2884,909,76.4,17.9,5.7,6.20210732886691e-114
+"q4_interest_learning_a1c","Learning my A1C level through a blood donation is of interest to me.",82236,"Disagree",1890,1393,356,141,73.7,18.8,7.5,6.20210732886691e-114
+"q4_interest_learning_a1c","Learning my A1C level through a blood donation is of interest to me.",82236,"Strongly Disagree",1966,1366,404,196,69.5,20.5,10,6.20210732886691e-114
+"q4_scheduled_for_a1c_test","I scheduled an appointment to give so that I could receive a complimentary A1C test.",82236,"Strongly Agree",4850,3153,1234,463,65,25.4,9.5,2.39044969053562e-87
+"q4_scheduled_for_a1c_test","I scheduled an appointment to give so that I could receive a complimentary A1C test.",82236,"Agree",3941,2694,955,292,68.4,24.2,7.4,2.39044969053562e-87
+"q4_scheduled_for_a1c_test","I scheduled an appointment to give so that I could receive a complimentary A1C test.",82236,"Neutral",17104,12028,3814,1262,70.3,22.3,7.4,2.39044969053562e-87
+"q4_scheduled_for_a1c_test","I scheduled an appointment to give so that I could receive a complimentary A1C test.",82236,"Disagree",19814,14544,4093,1177,73.4,20.7,5.9,2.39044969053562e-87
+"q4_scheduled_for_a1c_test","I scheduled an appointment to give so that I could receive a complimentary A1C test.",82236,"Strongly Disagree",36527,27598,6995,1934,75.6,19.2,5.3,2.39044969053562e-87
+"q4_a1c_factored_donation_decision","Knowing about complimentary A1C testing was a factor in my decision to give blood or platelets.",82236,"Strongly Agree",4994,3279,1267,448,65.7,25.4,9,2.68476839287845e-56
+"q4_a1c_factored_donation_decision","Knowing about complimentary A1C testing was a factor in my decision to give blood or platelets.",82236,"Agree",4961,3544,1082,335,71.4,21.8,6.8,2.68476839287845e-56
+"q4_a1c_factored_donation_decision","Knowing about complimentary A1C testing was a factor in my decision to give blood or platelets.",82236,"Neutral",15940,11333,3461,1146,71.1,21.7,7.2,2.68476839287845e-56
+"q4_a1c_factored_donation_decision","Knowing about complimentary A1C testing was a factor in my decision to give blood or platelets.",82236,"Disagree",19971,14551,4191,1229,72.9,21,6.2,2.68476839287845e-56
+"q4_a1c_factored_donation_decision","Knowing about complimentary A1C testing was a factor in my decision to give blood or platelets.",82236,"Strongly Disagree",36370,27310,7090,1970,75.1,19.5,5.4,2.68476839287845e-56
+"q4_a1c_motivates_future_donation","Hemoglobin A1C testing would motivate me to schedule a donation appointment in the future.",82236,"Strongly Agree",9864,6582,2434,848,66.7,24.7,8.6,3.79927532517021e-55
+"q4_a1c_motivates_future_donation","Hemoglobin A1C testing would motivate me to schedule a donation appointment in the future.",82236,"Agree",12454,9002,2659,793,72.3,21.4,6.4,3.79927532517021e-55
+"q4_a1c_motivates_future_donation","Hemoglobin A1C testing would motivate me to schedule a donation appointment in the future.",82236,"Neutral",24949,18684,4903,1362,74.9,19.7,5.5,3.79927532517021e-55
+"q4_a1c_motivates_future_donation","Hemoglobin A1C testing would motivate me to schedule a donation appointment in the future.",82236,"Disagree",14119,10401,2882,836,73.7,20.4,5.9,3.79927532517021e-55
+"q4_a1c_motivates_future_donation","Hemoglobin A1C testing would motivate me to schedule a donation appointment in the future.",82236,"Strongly Disagree",20850,15348,4213,1289,73.6,20.2,6.2,3.79927532517021e-55
+"q4_health_screenings_influence_donation","Receiving complementary health screenings (e.g., A1C, blood pressure, etc.) will influence me to donate blood in the future.",82236,"Strongly Agree",12913,9064,2872,977,70.2,22.2,7.6,1.32973142108527e-24
+"q4_health_screenings_influence_donation","Receiving complementary health screenings (e.g., A1C, blood pressure, etc.) will influence me to donate blood in the future.",82236,"Agree",18331,13699,3630,1002,74.7,19.8,5.5,1.32973142108527e-24
+"q4_health_screenings_influence_donation","Receiving complementary health screenings (e.g., A1C, blood pressure, etc.) will influence me to donate blood in the future.",82236,"Neutral",24504,18178,4924,1402,74.2,20.1,5.7,1.32973142108527e-24
+"q4_health_screenings_influence_donation","Receiving complementary health screenings (e.g., A1C, blood pressure, etc.) will influence me to donate blood in the future.",82236,"Disagree",11059,7965,2368,726,72,21.4,6.6,1.32973142108527e-24
+"q4_health_screenings_influence_donation","Receiving complementary health screenings (e.g., A1C, blood pressure, etc.) will influence me to donate blood in the future.",82236,"Strongly Disagree",15429,11111,3297,1021,72,21.4,6.6,1.32973142108527e-24

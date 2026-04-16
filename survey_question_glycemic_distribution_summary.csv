@@ -1,0 +1,9 @@
+"question_var","question_label","question_n","chisq_p_value","highest_diabetes_response","highest_diabetes_pct","lowest_diabetes_response","lowest_diabetes_pct"
+"q1_a1c_knowledge","Do you know what Hemoglobin A1C testing is?",82236,0,"Yes",8.2,"No",1.6
+"q2_when_learned_a1c_testing","Which of the following statements best describes when you learned that the Red Cross was offering Hemoglobin A1C testing as part of the blood donation process in March?",82236,1.80908122556072e-53,"Aware Prior to Donation",7.2,"Unaware",5.1
+"q3_prior_a1c_awareness","Prior to your recent donation were you aware of your A1C level?",82236,0,"Yes",13.4,"No",1.8
+"q4_a1c_factored_donation_decision","Knowing about complimentary A1C testing was a factor in my decision to give blood or platelets.",82236,2.68476839287845e-56,"Strongly Agree",9,"Strongly Disagree",5.4
+"q4_a1c_motivates_future_donation","Hemoglobin A1C testing would motivate me to schedule a donation appointment in the future.",82236,3.79927532517021e-55,"Strongly Agree",8.6,"Neutral",5.5
+"q4_health_screenings_influence_donation","Receiving complementary health screenings (e.g., A1C, blood pressure, etc.) will influence me to donate blood in the future.",82236,1.32973142108527e-24,"Strongly Agree",7.6,"Agree",5.5
+"q4_interest_learning_a1c","Learning my A1C level through a blood donation is of interest to me.",82236,6.20210732886691e-114,"Strongly Disagree",10,"Agree",4.8
+"q4_scheduled_for_a1c_test","I scheduled an appointment to give so that I could receive a complimentary A1C test.",82236,2.39044969053562e-87,"Strongly Agree",9.5,"Strongly Disagree",5.3
